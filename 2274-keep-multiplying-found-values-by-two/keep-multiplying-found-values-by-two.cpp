@@ -6,8 +6,7 @@ public:
             if(nums[i]==original){
                 original*=2;
                 // i=0;
-            }
-            
+            }  
         }
         return original;
     }
